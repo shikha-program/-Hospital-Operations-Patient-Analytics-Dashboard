@@ -92,6 +92,6 @@ Bed-level and patient-level performance summary<br>
 • Enables proactive hospital management decisions<br>
 • Turns raw healthcare data into operational intelligence<br>
 
-### 5. Screenshots / Demos<br<
+### 5. Screenshots / Demos
 Show what the dashboard looks like.- ![Alt text](https://github.com/username/repo/assets/image.png)<br>
 Example: ![Dashboard Preview](https://github.com/shikha-program/-Hospital-Operations-Patient-Analytics-Dashboard/blob/main/hospital%20operation%20dashboard.png)

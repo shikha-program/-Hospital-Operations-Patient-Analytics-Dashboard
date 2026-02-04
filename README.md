@@ -94,4 +94,4 @@ Bed-level and patient-level performance summary<br>
 
 ### 5. Screenshots / Demos<br<
 Show what the dashboard looks like.- ![Alt text](https://github.com/username/repo/assets/image.png)<br>
-Example: ![Dashboard Preview]()
+Example: ![Dashboard Preview](https://github.com/shikha-program/-Hospital-Operations-Patient-Analytics-Dashboard/blob/main/hospital%20operation%20dashboard.png)
